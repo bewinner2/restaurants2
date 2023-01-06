@@ -13,6 +13,8 @@ public class WishListDto {
 
 
     private int test;
+    private int test2;
+
 
 
 }
