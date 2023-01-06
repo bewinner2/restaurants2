@@ -9,5 +9,6 @@ public class WishListDto {
 
     //conflict-test
     //conflict- 123 첫번째 conflict 시도
+    //conflict- 123 여기는 conflict는 아니고 그냥 추가
 
 }
