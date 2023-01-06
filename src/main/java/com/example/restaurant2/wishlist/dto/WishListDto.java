@@ -13,6 +13,7 @@ public class WishListDto {
 
 
     private int conflict;
+    private int conflict2;
 
 
 
