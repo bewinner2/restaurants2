@@ -12,6 +12,7 @@ public class WishListDto {
     //conflict- 123 여기는 conflict는 아니고 그냥 추가
 
 
-    //여기는 main 에서 바뀐 내용입니다.
+    private int test;
+
 
 }
