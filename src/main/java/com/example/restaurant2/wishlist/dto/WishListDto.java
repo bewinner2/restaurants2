@@ -8,6 +8,6 @@ public class WishListDto {
     //second commit wishListDto
 
     //conflict-test
-    //conflict-test -real
+    //conflict- 123 첫번째 conflict 시도
 
 }
