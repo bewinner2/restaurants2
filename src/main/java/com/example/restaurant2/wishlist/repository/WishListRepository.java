@@ -17,3 +17,5 @@ public class WishListRepository extends MemoryDbRepositoryAbstract<WishListEntit
 //test add third one
 
 //test fourth try
+
+//test pull 
