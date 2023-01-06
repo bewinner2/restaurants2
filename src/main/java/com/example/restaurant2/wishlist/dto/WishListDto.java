@@ -8,7 +8,8 @@ public class WishListDto {
     //second commit wishListDto
 
     //conflict-test
-    //conflict-test -real
+    //conflict- 123 첫번째 conflict 시도
+    //conflict- 123 여기는 conflict는 아니고 그냥 추가
 
 
     //여기는 main 에서 바뀐 내용입니다.
