@@ -10,4 +10,7 @@ public class WishListDto {
     //conflict-test
     //conflict-test -real
 
+
+    //여기는 main 에서 바뀐 내용입니다.
+
 }
