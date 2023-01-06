@@ -8,4 +8,6 @@ public class WishListDto {
     //second commit wishListDto
 
     //conflict-test
+    //conflict-test -real
+
 }
